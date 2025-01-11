@@ -1,0 +1,9 @@
+#categories {
+    list-style-position: outside;
+    list-style-image: none;
+    list-style-type: none;
+}
+
+#categories .item::marker {
+    content: unset;
+}
