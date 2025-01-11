@@ -17,6 +17,7 @@ p:has(a[href="./index.html"]) {
   position: fixed;
   top: 1rem;
   left: 1rem;
+  z-index: 10;
 }
 
 a[href="./index.html"] {
